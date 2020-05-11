@@ -7,28 +7,24 @@ heroArea:
 ################### Gallery ###################
 gallery:
   enable : true
-  title : "FEATURED WORKS"
+  title : "Våra rätter"
   sliderItem:
-    - image : "images/slider/slider-img-1.jpg"
-    - image : "images/slider/slider-img-2.jpg"
-    - image : "images/slider/slider-img-3.jpg"
-    - image : "images/slider/slider-img-4.jpg"
-    - image : "images/slider/slider-img-1.jpg"
-    - image : "images/slider/slider-img-2.jpg"
-    - image : "images/slider/slider-img-3.jpg"
-    - image : "images/slider/slider-img-4.jpg"
+    - image : "images/slider/recommended-recipie-ica.jpg"
+    - image : "images/slider/make-your-own-tiramisu.jpg"
+    - image : "images/slider/recommended-recipie-ica.jpg"
+    - image : "images/slider/make-your-own-tiramisu.jpg"
 
 ################ About #######################
 about:
   enable : true
-  image : "images/cooker-img.png"
-  title : "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
-  description : "Vi älskar glass!"
+  image : "images/cooker-img.jpg"
+  title : "Vi <span>älskar</span> glass"
+  description : "Kom och njut av en glass med oss!"
   
 ################# Blog ######################
 blog:
   enable : true
-  title : "Our Latest <span>Blog</span>"
+  title : "Läs <span>bloggen</span>"
   bgImage : "images/blog/blog-bg.jpg"
   overlay : true
 
@@ -36,29 +32,29 @@ blog:
 ################# food Menu ################
 pricing:
   enable : true
-  title : "Our Easy <span>PRICE</span>"
-  description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-  subtitle : "FEATURED ON THE WEEK"
+  title : "Våran <span>meny</span>"
+  description: "Tiramisu står på menyn"
+  subtitle : "Veckans meny"
   pricingItem:
-  - title: "Pancakes n' Such Titas"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 125.00"
+  - title: "Tiramisu med strössel"
+    description: "Toppa din utsökta tiramisu med strössel"
+    price : "55 kr"
 
-  - title: "Caesar Salad"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 100.00"
+  - title: "Tiramisu med popcorn"
+    description: "En popcorn blandning i din tiramisu"
+    price : "70 kr"
 
-  - title: "Steak with a Garlic and Parsley Risotto"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 20.00"
+  - title: "Tiramisu med sockervadd"
+    description: "Sockervadd, galet va!?"
+    price : "80 kr"
 
-  - title: "Meat of Skewers"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 45.00"
+  - title: "Popcorn"
+    description: "För dig som älskar popcorn!"
+    price : "45 kr"
 
-  - title: "Pancakes n' Such"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 25.00"
+  - title: "Sockervadd"
+    description: "Den bästa sockervadden i stan, finns i flera färger."
+    price : "55 kr"
 
 ################### Subscription ################
 subscription:
@@ -74,6 +70,6 @@ subscription:
 ################ Contact #######################
 contact:
   enable : true
-  title: "Let's <span> Contact Us </span>"
+  title: "Kom igen, <span> hör av dig </span>"
   subtitle: "SIGN UP FOR EMAIL ALERTS"
   formAction : "#" #contact form works with formspree.io
